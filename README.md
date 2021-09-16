@@ -2,9 +2,9 @@
 
 # Contributors
 
-- **Yu Liang** (liangyu@nlsde.buaa.edu.cn)  
-- **Tianhao Peng** (pengtianhao@nlsde.buaa.edu.cn)
-- **Meng Wang** (wangmeng@nlsde.buaa.edu.cn)
+- **Yu Liang** (yliang@buaa.edu.cn)  
+- **Tianhao Peng** (pengtianhao@buaa.edu.cn)
+- **Meng Wang** 
 
 _State Key Laboratory of Software Development Environment Admire Group, School of Computer Science and Engineering, Beihang University_
 
