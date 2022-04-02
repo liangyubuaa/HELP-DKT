@@ -1,4 +1,8 @@
-# HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing
+# HELP-DKT: an Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing
+
+# About
+
+This is an implementation of the HELP-DKT model, described in the following paper: HELP-DKT: an Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing (https://www.nature.com/articles/s41598-022-07956-0).
 
 # Contributors
 
@@ -61,3 +65,20 @@ see [Code_Program_Embeddings/README.md](./Code_Program_Embeddings/README.md)
 N.B. if you do not want to reproduce generating the program vector embeddings, you can start here to run the HELP-DKT model using the embedding results in [Program_Vector_Embeddings.CSV](Data/Program_Vector_Embeddings.CSV).
 
 see [Code_HELP_DKT/README.md](./Code_HELP_DKT/README.md)
+
+# Reference
+
+```
+@article{liang_help-dkt_2022,
+	title = {{HELP}-{DKT}: an interpretable cognitive model of how students learn programming based on deep knowledge tracing},
+	volume = {12},
+	url = {https://doi.org/10.1038/s41598-022-07956-0},
+	doi = {10.1038/s41598-022-07956-0},
+	number = {1},
+	journal = {Scientific Reports},
+	author = {Liang, Yu and Peng, Tianhao and Pu, Yanjun and Wu, Wenjun},
+	month = mar,
+	year = {2022},
+	pages = {4012},
+}
+```
